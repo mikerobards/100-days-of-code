@@ -15,4 +15,4 @@
 
 **Thoughts:** One hour done coding only. Whew. Will do tutorials today! 
 
-**Link(s) to work** [My Portfolio Page](https://codepen.io/mikerobards/full/OzgPRR/)
+**Link(s) to work** [Codepen Portfolio Page](https://codepen.io/mikerobards/full/OzgPRR/)
