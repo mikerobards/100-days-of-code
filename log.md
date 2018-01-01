@@ -11,8 +11,8 @@
 
 ### Day 1: January 1st, 2018 Monday
 
-**Today's Progress:** 
+**Today's Progress:** Worked on Portfolio page. Starting from scratch. Using Flexbox. Coca-cola colors! 
 
-**Thoughts:** 
+**Thoughts:** One hour done coding only. Whew. Will do tutorials today! 
 
-**Link(s) to work** [My Portfolio Page](http://www.mikerobards.com)
+**Link(s) to work** [My Portfolio Page](https://codepen.io/mikerobards/full/OzgPRR/)
