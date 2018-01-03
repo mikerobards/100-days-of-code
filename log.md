@@ -16,3 +16,11 @@
 **Thoughts:** One hour done coding only. Whew. Will do tutorials today! 
 
 **Link(s) to work** [Codepen Portfolio Page](https://codepen.io/mikerobards/full/OzgPRR/)
+
+### Day 2: January 2nd, 2018 Tuesday
+
+**Today's Progress:** Worked on Udemy Advanced Web Developer Bootcamp & The Complete Web Developer in 2018: Zero to Mastery.
+
+**Thoughts:** Ok so yeah going to use time for these courses. Well over two hours spent. Maybe when I have a job as a dev I can devote an hour of pure coding after work. For now, I need to learn learn learn! And I did do a good bit of code learning call, apply and bind for 'this' keyword. 
+
+**Link(s) to work** [none](#)
