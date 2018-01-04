@@ -24,3 +24,11 @@
 **Thoughts:** Ok so yeah going to use time for these courses. Well over two hours spent. Maybe when I have a job as a dev I can devote an hour of pure coding after work. For now, I need to learn learn learn! And I did do a good bit of code learning call, apply and bind for 'this' keyword. 
 
 **Link(s) to work** [none](#)
+
+### Day 3: January 3rd, 2018 Wednesday
+
+**Today's Progress:** Registered professional domain name. Worked on 'this' keyword challenges in AWDB.
+
+**Thoughts:** I registered a domain name to use for my portfolio page and a site to post my projects. I still need a web host. Also worked on 'this' keyword challenges. Got two down! I'm posting that here!
+
+**Link(s) to work** [Call, Apply, Bind Challenges](#)
