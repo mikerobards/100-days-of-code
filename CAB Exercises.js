@@ -82,8 +82,9 @@ addOnlyThreeTimes(1,2) // 3
 addOnlyThreeTimes(1,2) // "Maxed Out!"
 
 /* 
-Write a function called once which accepts two parameters, a function and a value for the keyword 'this'. Once should return a new function
- that can only be invoked once, with the value of the keyword this in the function set to be the second parameter.
+Write a function called once which accepts two parameters, a function and a value for the keyword 'this'. Once should return
+a new function that can only be invoked once, with the value of the keyword this in the function set to be the second 
+parameter.
 
 Examples:
 
@@ -134,9 +135,10 @@ addOnce(2,2) // undefined
 // BONUSES! 
 
 /* 
-Write a function called bind which accepts a function and a value for the keyword this. Bind should return a new function that when invoked, 
-will invoke the function passed to bind with the correct value of the keyword this. HINT - if you pass more than two parameters to bind, 
-those parameters should be included as parameters to the inner function when it is invoked. You will have to make use of closure!
+Write a function called bind which accepts a function and a value for the keyword this. Bind should return a new function 
+that when invoked, will invoke the function passed to bind with the correct value of the keyword this. HINT - if you pass 
+more than two parameters to bind, those parameters should be included as parameters to the inner function when it is invoked. 
+You will have to make use of closure!
 
 Examples:
 
@@ -189,10 +191,11 @@ function bind(fn, thisArg){
 
 
 /* 
-Write a function called flip which accepts a function and a value for the keyword this. Flip should return a new function that when invoked,
- will invoke the function passed to flip with the correct value of the keyword this and all of the arguments passed to the function REVERSED. 
- HINT - if you pass more than two parameters to flip, those parameters should be included as parameters to the inner function when it is 
- invoked. You will have to make use of closure! 
+Write a function called flip which accepts a function and a value for the keyword this. Flip should return a new function
+that when invoked, will invoke the function passed to flip with the correct value of the keyword this and all of the 
+arguments passed to the function REVERSED. 
+ HINT - if you pass more than two parameters to flip, those parameters should be included as parameters to the inner function
+ when it is invoked. You will have to make use of closure! 
 
 Examples:
 
@@ -243,10 +246,7 @@ function flip(fn, thisArg){
         // we can use the length to figure out exactly how many parameters our allArgs array should use.
         return fn.apply(thisArg, allArgs.reverse());
         // finally, we return the result of invoking the function using apply and as a first parameter specifying a value
-        // for the keyword 'this' which we passed in the flip function, and as the second parameter we'll use our allArgs variable.
-        // We'll just have to make sure that we call reverse on our allArgs variable.   
+        // for the keyword 'this' which we passed in the flip function, and as the second parameter we'll use our allArgs 
+         // variable. We'll just have to make sure that we call reverse on our allArgs variable.   
      }
 }
-
-
-
