@@ -32,3 +32,11 @@
 **Thoughts:** I registered a domain name to use for my portfolio page and a site to post my projects. I still need a web host. Also worked on 'this' keyword challenges. Got two down! I'm posting that here!
 
 **Link(s) to work** [Call, Apply, Bind Challenges](https://github.com/mikerobards/100-days-of-code/blob/master/CAB%20Exercises.js)
+
+### Day 4: January 4th, 2018 Thursday
+
+**Today's Progress:** Finished AWDB Section 11: Closures and the Keyword 'this' 
+
+**Thoughts:** Finished CAB exercises. Had to look up answers after the first two. But, went through the answer video and I understand the uses. Arguments are tricky! Hell, 'this' is pretty tough! Onward!
+
+**Link(s) to work** [Call, Apply, Bind Challenges](https://github.com/mikerobards/100-days-of-code/blob/master/CAB%20Exercises.js)
