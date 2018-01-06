@@ -40,3 +40,11 @@
 **Thoughts:** Finished CAB exercises. Had to look up answers after the first two. But, went through the answer video and I understand the uses. Arguments are tricky! Hell, 'this' is pretty tough! Onward!
 
 **Link(s) to work** [Call, Apply, Bind Challenges](https://github.com/mikerobards/100-days-of-code/blob/master/CAB%20Exercises.js)
+
+### Days 4-5: January 4th & 5th, 2018 Friday & Saturday
+
+**Today's Progress:** Finished ZTM Section 3 & 4.
+
+**Thoughts:** Pretty basic stuff on ZTM. Friday worked on some AWDB constructors. Watched a bunch of newboston networking videos.
+
+**Link(s) to work** [none](#)
