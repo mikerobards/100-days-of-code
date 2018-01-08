@@ -41,10 +41,19 @@
 
 **Link(s) to work** [Call, Apply, Bind Challenges](https://github.com/mikerobards/100-days-of-code/blob/master/CAB%20Exercises.js)
 
-### Days 4-5: January 4th & 5th, 2018 Friday & Saturday
+### Days 5-6: January 5th & 6th, 2018 Friday & Saturday
 
 **Today's Progress:** Finished ZTM Section 3 & 4.
 
 **Thoughts:** Pretty basic stuff on ZTM. Friday worked on some AWDB constructors. Watched a bunch of newboston networking videos.
 
 **Link(s) to work** [none](#)
+
+### Day 7: January 7th, 2018 Sunday
+
+**Today's Progress:** Working on AWDB Section 12.
+
+**Thoughts:** Constructors. Keyword 'new'. Dunder proto. I'm getting it!
+
+**Link(s) to work** [Constructor challenge](#)
+
