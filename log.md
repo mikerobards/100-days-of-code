@@ -55,5 +55,5 @@
 
 **Thoughts:** Constructors. Keyword 'new'. Dunder proto. I'm getting it!
 
-**Link(s) to work** [Constructor challenge](#)
+**Link(s) to work** [Constructor challenge](https://github.com/mikerobards/100-days-of-code/blob/master/ConstructorExercise.js)
 
