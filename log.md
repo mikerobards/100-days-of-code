@@ -57,3 +57,10 @@
 
 **Link(s) to work** [Constructor challenge](https://github.com/mikerobards/100-days-of-code/blob/master/ConstructorExercise.js)
 
+### Days 8-9: January 8th & 9th, 2018 Monday & Tuesday
+
+**Today's Progress:** Finished AWDB Section 12.
+
+**Thoughts:** OOP, prototypes, inheritance. I can see where C# has built in OOP. But hey now I can mimic it in JS! Got this exercise nearly perfect.
+
+**Link(s) to work** [Inheritance Exercise](https://github.com/mikerobards/100-days-of-code/blob/master/InheritanceExercise.js)
